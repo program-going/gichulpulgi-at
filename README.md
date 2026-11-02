@@ -30,6 +30,8 @@ TAT(세무실무) · FAT(회계실무) 기출문제 수험용데이터를 회차
 
 지난 버전은 [Releases](https://github.com/program-going/gichulpulgi-at/releases) 에 있습니다.
 
+최신 버전과 회차 자료를 받을 수 있도록, GitHub 주소만 공유해 주세요.
+
 ## 업데이트
 
 새 버전이 있으면 프로그램을 실행할 때 안내 창이 표시됩니다.

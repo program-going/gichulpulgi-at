@@ -49,8 +49,6 @@ TAT(세무실무) · FAT(회계실무) 실기 기출문제와 응시 종목 프�
 
 사용 중 궁금한 점이나 오류는 [Issues](https://github.com/program-going/gichulpulgi-at/issues) 에 글로 남겨 주세요.
 
-사용 후기는 [Discussions](https://github.com/program-going/gichulpulgi-at/discussions) 에 남겨 주세요.
-
 글을 남기려면 GitHub 로그인이 필요합니다.
 
 ## 저작권
